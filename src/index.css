@@ -1,0 +1,22 @@
+@import "tailwindcss";
+
+@layer base {
+  html {
+    font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+  }
+
+  /* Smooth scroll offset for sticky header */
+  section {
+    scroll-margin-top: 5rem;
+  }
+}
+
+:root {
+  --color-bq-purple: #5A24B0;
+  --color-bq-purple-accent: #7B4AE2;
+  --color-bq-dark: #111114;
+  --color-bq-lavender: #F7F5FC;
+  --color-bq-gray: #666675;
+  --color-bq-border: #E9E6F0;
+}
+

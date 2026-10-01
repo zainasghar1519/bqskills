@@ -1,0 +1,6 @@
+{
+  "name": "BQ Skills — Digital Agency",
+  "description": "Premium digital agency specializing in creative design, website and application development, and strategic digital marketing. We turn ideas into digital experiences.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
